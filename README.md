@@ -8,7 +8,6 @@ Mobile App Development
 Virtual and augmented reality development (Spark AR, Unity Engine, etc.)  
 UI/UX Design  
 Machine learning / AI  
-  
 Picking up more skills, tools and frameworks!  
 
 - 🌱 I’m currently learning ...  
