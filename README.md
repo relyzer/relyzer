@@ -1,26 +1,33 @@
-- 👋 Hi, I’m @relyzer  
+- Hello, I’m @relyzer!  
 A Junior Software Developer/Engineer   
-I am currently working full-time as a Back-end Software Engineer!  
+I am currently working full-time as a Back-end Software Engineer! 
 
+---
 - 👀 I’m interested in ...  
-Front-end web development  
+Front-end / Full-stack web development  
 Mobile App Development  
 Virtual and augmented reality development (Spark AR, Unity Engine, etc.)  
 UI/UX Design  
 Machine learning / AI  
 Picking up more skills, tools and frameworks!  
 
+---
 - 🌱 I’m currently learning ...  
-Nginx, Linux OS, Shell scripting, Python, TypeScript, React.js, AWS/Azure tools, DevOps tools such as Docker/Kubernetes  
-Software Engineering best practices, clean code, data structures & algorithms, software design & architecture  
+Previously: Nginx, Linux OS, Shell scripting, Python, TypeScript, React.js, AWS/Azure tools, DevOps tools such as Docker/Kubernetes  
+Currently: Next.js, React.js, HTML5 / CSS3, Javascript/Typescript techniques and concepts (both advanced and beginner, to cover knowledge gaps), frontend knowledge  
+Next in line: Javascript animation libraries such as GSAP, Three.js, D3.js. I would like to beecome adept in bringing animations and 3D models to life in the web!  
+(Also because I have extensive experience with 3D modelling :) )  
+Constantly: Software Engineering best practices, clean code, data structures & algorithms, software design & architecture  
 
+
+---
 - 💞️ I’m looking to collaborate on ...  
 Anything fun, interesting and something that provides a great learning opportunity for me!  
-Open to game and mobile app development projects  
+Open to game, web and mobile app development projects  
 
-
+---
 - 📫 How to reach me ...  
-TBA  
+Look for my LinkedIn or wait for my personal website to be up! (TBA) 
 
 
 
