@@ -1,6 +1,6 @@
 - Hello, I’m @relyzer!  
 A Junior Software Developer/Engineer   
-I am currently working full-time as a Back-end Software Engineer! 
+Previously working full-time as a Back-end Software Engineer! 
 
 ---
 - 👀 I’m interested in ...  
