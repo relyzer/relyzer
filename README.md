@@ -1,6 +1,5 @@
 - Hello, I’m @relyzer!  
-A Junior Software Developer/Engineer   
-Previously working full-time as a Back-end Software Engineer! 
+A software engineer based in Singapore.
 
 ---
 - 👀 I’m interested in ...  
@@ -19,17 +18,10 @@ Next in line: Javascript animation libraries such as GSAP, Three.js, D3.js. I wo
 (Also because I have extensive experience with 3D modelling :) )  
 Constantly: Software Engineering best practices, clean code, data structures & algorithms, software design & architecture  
 
-
 ---
 - 💞️ I’m looking to collaborate on ...  
 Anything fun, interesting and something that provides a great learning opportunity for me!  
 Open to game, web and mobile app development projects  
-
----
-- 📫 How to reach me ...  
-Look for my LinkedIn  
-
-
 
 <!---
 relyzer/relyzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
